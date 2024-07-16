@@ -1,0 +1,16 @@
+1.What and why Express JS?
+2.Rounting----------------> For Example means youtube.com/ns/Loni/go. Program
+                            Here ///// slash is Routing in System(contains Routine's)
+                            if given URL is match with each routine in system then execute the Server. 
+				1.Eg:- https://github.com/nsgowebjavaprog/Moving-like-Express
+                                1st--> Moving-like-Express
+				2nd--> nsgowebjavaprog
+				3rd--> github.com
+				4th--> https://
+3.Middleware-------------->
+4.Request & Response
+5.Route Parameters
+6.Templates
+7.Ststic Files
+8.HTTP Methods - get and post
+9.Error Handling
